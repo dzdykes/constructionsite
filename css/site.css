@@ -1,0 +1,17 @@
+﻿body {
+    background-image:url("../../images/cover.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    font-family: Calibri;
+}
+
+header h1 {
+    font-size: 5em;
+    padding-left: 1em;
+    margin-bottom:0px;
+}
+
+header sub {
+    font-size: 2em;
+    padding-left: 3.5em;
+}
